@@ -1,0 +1,48 @@
+.container {
+  margin: 2%;
+  text-align: center;
+}
+.banner {
+  margin-top: 10%;
+  font-family: "Nunito", sans-serif;
+  font-weight: 300;
+  color: #3f51b5;
+}
+.tagline {
+  font-family: "Nunito", sans-serif;
+  font-weight: 300;
+  color: #3f51b5;
+}
+
+.header {
+  font-size: 450%;
+}
+
+.contacts {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.subtagline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.s14 {
+  width: 25px;
+  height: 25px;
+  margin-left: 8px;
+}
+
+.ion-social-twitter-outline {
+  font-size: 180%;
+  margin-right: 10px;
+  color: #1da1f2;
+}
+
+.ion-social-github-outline {
+  font-size: 180%;
+  color: #333;
+}
